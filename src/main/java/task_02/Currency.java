@@ -47,3 +47,4 @@ public class Currency {
         this.exchangedate = exchangedate;
     }
 }
+// Тест
